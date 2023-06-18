@@ -1,0 +1,22 @@
+{
+  "title": "DnD",
+  "id": "dnd",
+  "system": "dnd5e",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "systemVersion": "2.1.5",
+  "packs": [
+    {
+      "label": "Best",
+      "type": "Actor",
+      "name": "best",
+      "path": "packs/best.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ]
+}
